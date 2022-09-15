@@ -5,6 +5,9 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+
+// Today i learned java and git hub
+
 public class GoogleScaping  {
 	public static void main(String[] args) throws InterruptedException {
 		String strXpath;
